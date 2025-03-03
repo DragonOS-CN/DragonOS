@@ -1,0 +1,13 @@
+rclpy>=0.6.0  # ROS3 Python client library
+numpy>=1.21.0
+opencv-python>=4.5.0
+pyserial>=3.5
+canopen>=2.0.0
+torch>=1.9.0  # For machine learning models
+pyyaml>=5.4.0
+fastapi>=0.68.0  # For API gateway
+uvicorn>=0.15.0
+sqlalchemy>=1.4.0  # For data management
+python-multipart>=0.0.5
+python-jose>=3.3.0  # For security
+passlib>=1.7.4 
